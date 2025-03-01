@@ -67279,7 +67279,7 @@ A.yO.prototype={
 G(){return"SocialMediaPlatformEnum."+this.b}}
 A.Hj.prototype={
 I(a){var s=null
-return new A.wD(B.l2,new A.a3x(),"Shinas Koya Portfolio",A.ak8(s,A.amu(B.a3,s,s,B.Ji),!0),!1,s)}}
+return new A.wD(B.l2,new A.a3x(),"My Portfolio",A.ak8(s,A.amu(B.a3,s,s,B.Ji),!0),!1,s)}}
 A.a3x.prototype={
 $2(a,b){var s=null,r=A.apU(a)
 A.aAS(r!=null?A.aog(r,s):s,B.Nn,s,!0,!0)
